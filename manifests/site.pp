@@ -80,7 +80,10 @@ node default {
   include vlc
   include dropbox
   include handbrake
-  
+
+  include sublime_text_2
+  include virtualbox
+
 
 
   # common, useful packages

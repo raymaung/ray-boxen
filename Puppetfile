@@ -41,9 +41,11 @@ github 'osx',               '1.0.0', :repo => 'boxen/puppet-osx'
 # requires: osx
 github 'zsh', '1.0.0', :repo => 'boxen/puppet-zsh'
 
-github 'vlc', '1.0.1', :repo => 'boxen/puppet-vlc'
-github 'dropbox', '1.1.0', :repo => 'boxen/puppet-dropbox'
-github 'handbrake', '1.0.0', :repo => 'boxen/puppet-handbrake'
+github 'vlc',            '1.0.1', :repo => 'boxen/puppet-vlc'
+github 'dropbox',        '1.1.0', :repo => 'boxen/puppet-dropbox'
+github 'handbrake',      '1.0.0', :repo => 'boxen/puppet-handbrake'
+github 'sublime_text_2', '1.1.1', :repo => 'boxen/puppet-sublime_text_2'
+github 'virtualbox',     '1.0.3', :repo => 'boxen/puppet-virtualbox'
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

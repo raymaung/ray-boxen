@@ -74,6 +74,11 @@ GITHUBTARBALL
     ruby (4.1.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-sublime_text_2
+  specs:
+    sublime_text_2 (1.1.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -82,6 +87,11 @@ GITHUBTARBALL
   remote: boxen/puppet-sysctl
   specs:
     sysctl (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-virtualbox
+  specs:
+    virtualbox (1.0.3)
 
 GITHUBTARBALL
   remote: boxen/puppet-vlc
@@ -121,8 +131,10 @@ DEPENDENCIES
   repository (= 2.0.2)
   ruby (= 4.1.0)
   stdlib (= 4.0.2)
+  sublime_text_2 (= 1.1.1)
   sudo (= 1.0.0)
   sysctl (= 1.0.0)
+  virtualbox (= 1.0.3)
   vlc (= 1.0.1)
   zsh (= 1.0.0)
 
