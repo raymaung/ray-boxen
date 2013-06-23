@@ -34,8 +34,14 @@ github "sysctl",     "1.0.0"
 github "postgresql",  "1.0.0", :repo => 'boxen/puppet-postgresql'
 
 github 'property_list_key', '0.1.0', :repo => 'boxen/puppet-property_list_key'
+
+# requires property_list_key
 github 'osx',               '1.0.0', :repo => 'boxen/puppet-osx'
+
+# requires: osx
 github 'zsh', '1.0.0', :repo => 'boxen/puppet-zsh'
+
+github 'vlc', '1.0.1', :repo => 'boxen/puppet-vlc'
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

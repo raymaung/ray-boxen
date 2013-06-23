@@ -74,6 +74,11 @@ GITHUBTARBALL
     sysctl (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-vlc
+  specs:
+    vlc (1.0.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-zsh
   specs:
     zsh (1.0.0)
@@ -106,5 +111,6 @@ DEPENDENCIES
   stdlib (= 4.0.2)
   sudo (= 1.0.0)
   sysctl (= 1.0.0)
+  vlc (= 1.0.1)
   zsh (= 1.0.0)
 

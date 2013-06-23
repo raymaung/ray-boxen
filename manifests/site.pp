@@ -77,6 +77,8 @@ node default {
 
   include postgresql
   include zsh
+  include vlc
+
 
   # common, useful packages
   package {
