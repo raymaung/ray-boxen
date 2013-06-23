@@ -30,6 +30,8 @@ github "repository", "2.0.2"
 github "ruby",       "4.1.0"
 github "stdlib",     "4.0.2", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
+github "sysctl",     "1.0.0" 
+github "postgresql",  "1.0.0", :repo => 'boxen/puppet-postgresql'
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
