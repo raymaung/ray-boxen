@@ -79,6 +79,8 @@ node default {
   include zsh
   include vlc
   include dropbox
+  include handbrake
+  
 
 
   # common, useful packages
