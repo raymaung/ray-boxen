@@ -85,7 +85,7 @@ node default {
   include virtualbox
   include chrome
   include skype
-
+  include cyberduck
 
   # common, useful packages
   package {
