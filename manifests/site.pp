@@ -83,7 +83,8 @@ node default {
 
   include sublime_text_2
   include virtualbox
-
+  include chrome
+  include skype
 
 
   # common, useful packages

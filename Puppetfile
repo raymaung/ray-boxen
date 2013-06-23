@@ -46,6 +46,8 @@ github 'dropbox',        '1.1.0', :repo => 'boxen/puppet-dropbox'
 github 'handbrake',      '1.0.0', :repo => 'boxen/puppet-handbrake'
 github 'sublime_text_2', '1.1.1', :repo => 'boxen/puppet-sublime_text_2'
 github 'virtualbox',     '1.0.3', :repo => 'boxen/puppet-virtualbox'
+github 'chrome',         '1.1.0', :repo => 'boxen/puppet-chrome'
+github 'skype',          '1.0.2', :repo => 'boxen/puppet-skype'
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
